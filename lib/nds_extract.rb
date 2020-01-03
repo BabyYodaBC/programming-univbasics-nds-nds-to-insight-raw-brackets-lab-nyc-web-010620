@@ -16,4 +16,5 @@ def directors_totals(nds)
     index += 1
   end
   nil
+  return movies_money
 end
